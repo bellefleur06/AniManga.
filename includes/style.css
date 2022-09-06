@@ -46,7 +46,7 @@ a {
 }
 
 .hero {
-  background-image: url('/includes/images/ps.JPG');
+  background-image: url('AniManga./includes/images/ps.JPG');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -129,7 +129,7 @@ section {
 }
 
 .col-img {
-  background-image: url('/includes/images/mwtfb.JPG');
+  background-image: url('AniManga./includes/images/mwtfb.JPG');
   background-position: center;
   background-size: cover;
   min-height: 500px;

@@ -209,7 +209,7 @@ form input .form-control {
 form .form-control {
   border: transparent;
   border-radius: 0;
-  background-color: rgba(0,0,0,0.02);
+  background-color: rgba(0,0,0,0.05);
 }
 
 .footer-top {

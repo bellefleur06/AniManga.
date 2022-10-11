@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&display=swap);
+@import url(//fonts.googleapis.com/css2?family=Dosis:wght@400;500;600;700;800&family=Sora:wght@400;500;600;700;800&display=swap);
 
 :root {
   --primary: #f60f20;
@@ -8,7 +8,6 @@
 }
 
 body {
-
   line-height: 1.7;
   color: var(--body);
 }

@@ -42,6 +42,10 @@ a {
   background-color: var(--primary);
 }
 
+.text-logo {
+  color: #f60f20 !important;
+}
+
 .primary {
   color: var(--primary);
 }
